@@ -4,7 +4,7 @@ I wrote this to demonstrate the skills I've been developing in using the Java la
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-Student Gradebook Demo Video (http://youtube.link.goes.here)
+Student Gradebook Demo Video (https://youtu.be/kp32VlnQGvA)
 
 # Development Environment
 Tools used to write this program:
